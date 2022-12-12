@@ -1,1 +1,1 @@
-{"name":"Local: Test","url":"/home/atulya/Coding/AOC2022/Test.cpp","tests":[{"id":1670758633738,"input":"2312312\n3123123","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/atulya/Coding/AOC2022/Test.cpp","group":"local","local":true}
+{"name":"Local: Test","url":"/home/atulya/Coding/AOC2022/Test.cpp","tests":[{"id":1670758633738,"input":"2312312\n           3123123","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/atulya/Coding/AOC2022/Test.cpp","group":"local","local":true}
